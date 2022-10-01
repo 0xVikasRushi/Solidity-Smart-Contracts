@@ -8,6 +8,8 @@ This Repo contains  smart contracts i have learned and written
 - Ecommerce Website Smart Contract
     - [Deployed on Ropsten testnet](https://ropsten.etherscan.io/tx/0xae1a7c9744d65e6998b87b45c6641eec65423bd949a7a092de2575f47394e0e9)
     - [Code](https://github.com/0xVikasRushi/Solidity-Smart-Contracts/commit/4f74cddf0b536f29ad118135ec4697da221a300f)
+- Crowd Funding Smart Contract Updated Version
+     - [Code](https://github.com/0xVikasRushi/Solidity-Smart-Contracts/blob/main/Smart-Contracts/CrowdFunding.sol)
 - Crowd Funding Smart Contract
     - [Deployed on Ropsten testnet](https://ropsten.etherscan.io/tx/0x99910b03262192c58f390df3588efedcde416c6dd61956786593d630878bb7af)
     - [Code](https://github.com/0xVikasRushi/Solidity-Smart-Contracts/blob/main/Smart-Contracts/CrowdingFunding.sol)
