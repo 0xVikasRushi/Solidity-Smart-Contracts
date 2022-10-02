@@ -17,7 +17,7 @@ contract CrowdingFunding{
     
     constructor(){
         owner = msg.sender;
-        amountRaised=0;
+       // amountRaised=0;
     }
     function register(string memory _victimName ,string memory _description,address  _victimAddress, uint _target,uint _minContribution,uint _deadLine) public {
         victimName = _victimName;
